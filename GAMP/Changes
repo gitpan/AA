@@ -1,0 +1,6 @@
+Revision history for Perl extension AA::GAMP.
+
+0.01  Wed Jun 18 01:24:26 2003
+	- original version; created by h2xs 1.22 with options
+		-AX -n AA::GAMP
+

@@ -1,0 +1,6 @@
+TYPEMAP
+AA *                O_OBJECT
+const char *        T_PV
+enum aa_attribute   T_IV
+
+
